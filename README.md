@@ -24,7 +24,7 @@
 ![image](https://github.com/ani171/quantum/assets/97838595/b0c13074-d40f-4cbb-a0d4-6ba9f28e6d61)
 
 * **Hermitian Matrix**
- * A hermitian matrix is a square matrix that is equal to the transpose of its conjugate matrix.
+  * A hermitian matrix is a square matrix that is equal to the transpose of its conjugate matrix.
 ![image](https://github.com/ani171/quantum/assets/97838595/31f080f2-afae-4673-86b8-bf19a0e8d6fa)
 
 ## Young's Double Slit Experiment
