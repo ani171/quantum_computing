@@ -88,6 +88,6 @@
 ![image](https://github.com/ani171/quantum/assets/97838595/365f66d1-ed31-481c-ac1f-12c9034c190e)
 ![image](https://github.com/ani171/quantum/assets/97838595/9604cc81-6e55-44a8-b664-a2717998fc9f)
 * Multi-qubits
-  * In here Hadamard gate is put in q[0] o=alone, thus driving only q[0] into superposition state and not q[1] which is in its |0> state
+  * In here Hadamard gate is put in q[0] alone, thus driving only q[0] into superposition state and not q[1] which is in its |0> state
 ![image](https://github.com/ani171/quantum/assets/97838595/6180358b-5471-4bd6-9d06-18d673011d6c)
 
