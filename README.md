@@ -20,6 +20,28 @@
 ![image](https://github.com/ani171/quantum/assets/97838595/c193da07-890b-420d-8c66-cb5ecc6e433b)
 
 * **Unitary Matrix**
-  * A unitary matrix is a matrix whose inverse equals it conjugate transpose.
+  * A unitary matrix is a matrix whose inverse equals its conjugate transpose.
 ![image](https://github.com/ani171/quantum/assets/97838595/b0c13074-d40f-4cbb-a0d4-6ba9f28e6d61)
+
+* **Hermitian Matrix**
+ * A hermitian matrix is a square matrix that is equal to the transpose of its conjugate matrix.
+![image](https://github.com/ani171/quantum/assets/97838595/31f080f2-afae-4673-86b8-bf19a0e8d6fa)
+
+## Young's Double Slit Experiment
+
+* Young's double-slit experiment is a fundamental experiment in quantum mechanics that demonstrates the wave-particle duality of particles, such as electrons and photons.
+* The experiment involves shining a coherent light source (such as a laser) through a barrier with two closely spaced slits, creating two separate wavefronts. The light then strikes a screen placed some distance away.
+* When light passes through the double slits, it creates an interference pattern on the screen. This pattern consists of alternating bright and dark regions, indicating constructive and destructive interference of light waves.
+* The interference pattern is a characteristic of the wave nature of light. Waves from the two slits overlap and interfere, creating the observed pattern.
+* The interference pattern emerges when particles are not observed, suggesting a wave-like behavior, but when observed, they behave like particles.
+* The experiment highlights Heisenberg's uncertainty principle. Knowing which slit a particle passes through disrupts the interference pattern, as determining the path introduces uncertainty in the particle's momentum, affecting its wave-like behavior.
+
+![image](https://github.com/ani171/quantum/assets/97838595/9a844395-cc90-4c64-bf1b-515c003a87eb)
+
+## Electron spin
+* Electron spin is a fundamental property of electrons
+* Spin is a quantum property, and its behavior is described by quantum mechanics. Unlike classical objects, electrons do not spin in the traditional sense. Instead, they exhibit a form of intrinsic angular momentum.
+* Electron spin is associated with a magnetic moment
+![image](https://github.com/ani171/quantum/assets/97838595/90bc451f-4eed-4144-9d77-ca4f388c97be)
+
 
