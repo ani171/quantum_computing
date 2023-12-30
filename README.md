@@ -101,3 +101,11 @@
 * The first two rows correspond to the cases where the control qubit is in state |0⟩, and the last two rows correspond to the cases where the control qubit is in state |1⟩.
 * If the control qubit is in state |0⟩, the CNOT gate performs the identity operation on the target qubit (leaves it unchanged)
 * If the control qubit is in state |1⟩, the CNOT gate flips the state of the target qubit (applies an X gate)
+
+### Hadamard and CNOT gate 
+* Applying a Hadamard gate and a CNOT gate together on a pair of qubits is a common operation in quantum computing. This combination is often used to create entanglement
+![image](https://github.com/ani171/quantum/assets/97838595/cf63760f-dd5a-4bb0-82ff-2d7dcc0d7b4c)
+* Here is how it is done
+![image](https://github.com/ani171/quantum/assets/97838595/c1aa78e8-3d7c-46b5-92a8-f4aa3e7933bd)
+
+
