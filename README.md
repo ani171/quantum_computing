@@ -77,5 +77,9 @@
 * On putting an X gate in q0
 ![image](https://github.com/ani171/quantum/assets/97838595/d4de8ec1-90c8-4911-9b5e-236c082a4a2a)
 ![image](https://github.com/ani171/quantum/assets/97838595/1057722d-3ae5-4651-bca3-17b750d68d0d)
+* Multi-qubits
+![image](https://github.com/ani171/quantum/assets/97838595/eb64ecb1-708b-45e1-bcf5-b4fe14808f67)
+![image](https://github.com/ani171/quantum/assets/97838595/01651a08-4398-49a4-82ff-db258c9ccacc)
+
 
 
