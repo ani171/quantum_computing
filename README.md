@@ -64,3 +64,10 @@
 
 #### Multi-qubits
 ![image](https://github.com/ani171/quantum/assets/97838595/1f715023-081e-4fba-8788-ff0786f371e6)
+
+## Quantum Gates
+#### X gate
+* The X gate, often referred to as the NOT gate, is a fundamental quantum gate in quantum computing. 
+* It is analogous to the classical NOT gate, which flips the state of a classical bit.
+
+![WhatsApp Image 2023-12-30 at 11 41 19 AM](https://github.com/ani171/quantum/assets/97838595/411a5a2a-9b20-4890-94cd-78cfda1999fc)
