@@ -121,6 +121,17 @@
 * As both controls that is q0 and q1 are 1 so q2's initial value is reversed ---> |111>
 ![image](https://github.com/ani171/quantum_computing/assets/97838595/cb42b080-e7d2-4a90-872e-3dfd49a6f5e3)
 
+### Z gate
+* also known as the phase gate or Z-Pauli gate
+* a single-qubit quantum gate that introduces a phase shift to the qubit state
+![image](https://github.com/ani171/quantum_computing/assets/97838595/026f2070-0894-4c5d-a848-5a1973effa17)
+*
+  * Z |0> = |0>
+  * Z |1> = |-1>
+![WhatsApp Image 2023-12-30 at 6 22 22 PM](https://github.com/ani171/quantum_computing/assets/97838595/dac851d4-4e55-4c6d-abad-cfdf2bd70c59)
+* A phase pi can be observed below, but the outcome isn't affected ( but it is not that Z gate doesn't affect the computation probability)
+![image](https://github.com/ani171/quantum_computing/assets/97838595/935c0a4c-65b8-43eb-8242-68bba7469dff)
+
 ## Qiskit
 [Qiskit](https://github.com/ani171/quantum/tree/bbe492cb5120d61ff42d8c85e87004ec69f81d72/qiskit)
 
