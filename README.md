@@ -95,7 +95,7 @@
 * The Controlled-NOT (CNOT) gate is a fundamental two-qubit gate in quantum computing
 * The CNOT gate is commonly used for creating entanglement and implementing quantum algorithms.
 
-![image](https://github.com/ani171/quantum/assets/97838595/12d800dc-2051-4b13-963a-a9670047af7e)
+![image](https://github.com/ani171/quantum/assets/97838595/90a03c6e-7cb6-416d-b6a1-85390c8eed41)
 
 * The CNOT gate involves two qubits: a control qubit and a target qubit. The operation of the gate depends on the state of the control qubit.
 * The first two rows correspond to the cases where the control qubit is in state |0⟩, and the last two rows correspond to the cases where the control qubit is in state |1⟩.
