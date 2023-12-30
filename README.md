@@ -44,4 +44,7 @@
 * Electron spin is associated with a magnetic moment
 ![image](https://github.com/ani171/quantum/assets/97838595/90bc451f-4eed-4144-9d77-ca4f388c97be)
 
+## Entanglement
+* When two electrons are entangled, their properties become linked in a way that the state of one particle directly affects the state of the other
+* Before measurement, in the quantum world the particle's properties exist in a superposition state. Via entanglement, when the property of one particle is measured the state of the other is instantly measured
 
