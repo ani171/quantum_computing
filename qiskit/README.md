@@ -24,3 +24,18 @@
 * Or use qiskit using IBM's quantum lab
 
 ## Quantum noise
+* Quantum noise refers to the inherent uncertainty and randomness that arises in quantum systems.
+* It is a fundamental aspect of quantum mechanics and is distinct from classical noise.
+
+1. Decoherence:
+ * Quantum systems are inherently susceptible to decoherence, where quantum information can be lost to the environment. Real quantum devices experience decoherence, causing the degradation of quantum states over time.
+2. Gate Errors:
+ * Physical qubits and quantum gates in real devices may have imperfections, leading to errors in quantum operations.
+3. Readout Errors:
+ * When measuring a quantum state, readout errors can occur. These errors lead to discrepancies between the intended measurement outcome and the observed result.
+4. Crosstalk:
+ * Crosstalk refers to unintended interactions between qubits. Quantum computers consist of multiple qubits, and operations on one qubit can potentially influence neighboring qubits, leading to unwanted correlations and errors.
+5. Thermal Noise:
+ * Temperature fluctuations in the environment can introduce thermal noise, affecting the stability of qubits and their susceptibility to external influences.
+6. Quantum Fluctuations:
+ * Quantum systems are subject to inherent fluctuations due to the uncertainty principle. These fluctuations introduce probabilistic variations in quantum states, contributing to the overall quantum noise.
