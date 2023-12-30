@@ -91,3 +91,13 @@
   * In here Hadamard gate is put in q[0] alone, thus driving only q[0] into superposition state and not q[1] which is in its |0> state
 ![image](https://github.com/ani171/quantum/assets/97838595/6180358b-5471-4bd6-9d06-18d673011d6c)
 
+### CNOT Gate
+* The Controlled-NOT (CNOT) gate is a fundamental two-qubit gate in quantum computing
+* The CNOT gate is commonly used for creating entanglement and implementing quantum algorithms.
+
+![image](https://github.com/ani171/quantum/assets/97838595/12d800dc-2051-4b13-963a-a9670047af7e)
+
+* The CNOT gate involves two qubits: a control qubit and a target qubit. The operation of the gate depends on the state of the control qubit.
+* The first two rows correspond to the cases where the control qubit is in state |0⟩, and the last two rows correspond to the cases where the control qubit is in state |1⟩.
+* If the control qubit is in state |0⟩, the CNOT gate performs the identity operation on the target qubit (leaves it unchanged)
+* If the control qubit is in state |1⟩, the CNOT gate flips the state of the target qubit (applies an X gate)
