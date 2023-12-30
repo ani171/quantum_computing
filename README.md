@@ -71,3 +71,11 @@
 * It is analogous to the classical NOT gate, which flips the state of a classical bit.
 
 ![WhatsApp Image 2023-12-30 at 11 41 19 AM](https://github.com/ani171/quantum/assets/97838595/411a5a2a-9b20-4890-94cd-78cfda1999fc)
+
+* All qubits start from |0> state unless specified otherwise
+![image](https://github.com/ani171/quantum/assets/97838595/c2074029-4307-49aa-a869-0ab489f6a641)
+* On putting an X gate in q0
+![image](https://github.com/ani171/quantum/assets/97838595/d4de8ec1-90c8-4911-9b5e-236c082a4a2a)
+![image](https://github.com/ani171/quantum/assets/97838595/1057722d-3ae5-4651-bca3-17b750d68d0d)
+
+
