@@ -110,5 +110,16 @@
 
 ![image](https://github.com/ani171/quantum/assets/97838595/6aea77c0-0b6b-48ed-93ea-425ebe0a851a)
 
+### Toff0li gate
+* The Toffoli gate is a three-qubit gate in quantum computing.
+* also known as the Controlled-Controlled-NOT (CCX) gate
+* The Toffoli gate performs a NOT (X) operation on a target qubit only if both control qubits are in the state ∣1⟩.
+![image](https://github.com/ani171/quantum_computing/assets/97838595/e4e588dc-3db5-434d-98c9-c05987d81144)
+![image](https://github.com/ani171/quantum_computing/assets/97838595/21aae26b-e22f-44cc-8d65-0d9b6a2a5727)
+* In below only q0 is made |1> thus no change in q2
+![image](https://github.com/ani171/quantum_computing/assets/97838595/1b1d066a-4341-4709-be92-82a15cc5c34c)
+* As both controls that is q0 and q1 are 1 so q2's initial value is reversed ---> |111>
+![image](https://github.com/ani171/quantum_computing/assets/97838595/cb42b080-e7d2-4a90-872e-3dfd49a6f5e3)
+
 ## Qiskit
 [Qiskit](https://github.com/ani171/quantum/tree/bbe492cb5120d61ff42d8c85e87004ec69f81d72/qiskit)
