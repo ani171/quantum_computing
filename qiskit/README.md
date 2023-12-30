@@ -39,3 +39,12 @@
   * Temperature fluctuations in the environment can introduce thermal noise, affecting the stability of qubits and their susceptibility to external influences.
 6. Quantum Fluctuations:
   * Quantum systems are subject to inherent fluctuations due to the uncertainty principle. These fluctuations introduce probabilistic variations in quantum states, contributing to the overall quantum noise.
+
+* Output of qasm_simulator 
+![image](https://github.com/ani171/quantum/assets/97838595/479038db-dadf-4d92-9fbe-a992f08d75fa)
+
+* Output of ibqm simulator (here ibqm_kyoto)
+![image](https://github.com/ani171/quantum/assets/97838595/f2669ecb-6795-4b71-aa39-9c39ef7dcb8f)
+  * A noise can be observed at <01| and <10|
+  * The Qiskit Aer qasm_simulator is a simulator that provides an idealized representation of quantum circuits, meaning it does not model certain types of errors or noise that are present in real-world quantum devices. This is intentional and designed to allow users to simulate quantum circuits without the complicating effects of noise, decoherence, and other imperfections
+  *  When you run your quantum circuits on actual quantum hardware or use more realistic simulators like the ibmq_simulator (which simulates the noise characteristics of IBM Quantum devices), you start to encounter quantum noise due to various factors
