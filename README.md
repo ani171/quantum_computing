@@ -48,3 +48,19 @@
 * When two electrons are entangled, their properties become linked in a way that the state of one particle directly affects the state of the other
 * Before measurement, in the quantum world the particle's properties exist in a superposition state. Via entanglement, when the property of one particle is measured the state of the other is instantly measured
 
+## Qubit
+* A qubit, short for a quantum bit, is the fundamental unit of quantum information in quantum computing and quantum information processing.
+*  Qubits are the quantum analogs of classical bits. While classical bits can exist in one of two states, 0 or 1, qubits can exist in multiple states simultaneously due to the principles of quantum superposition
+![image](https://github.com/ani171/quantum/assets/97838595/68cf49dc-458a-4f8a-9e2a-a2380a80c133)
+
+## Bra-Ket Notation 
+* The bra-ket notation is a mathematical notation used in quantum mechanics to represent vectors and linear operators.
+* The "ket" is a notation used to represent a quantum state vector. It's denoted by ∣ψ⟩
+* The "bra" is the conjugate transpose of the ket. If ∣ψ⟩ is a ket, then ⟨ψ∣ is the corresponding bra.
+
+![WhatsApp Image 2023-12-30 at 11 35 47 AM](https://github.com/ani171/quantum/assets/97838595/84ecae1a-c251-4b5a-90f1-34a7d14a380e)
+
+![image](https://github.com/ani171/quantum/assets/97838595/081baf2c-2130-4b67-adc3-178205418f0b)
+
+#### Multi-qubits
+![image](https://github.com/ani171/quantum/assets/97838595/1f715023-081e-4fba-8788-ff0786f371e6)
