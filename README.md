@@ -66,7 +66,7 @@
 ![image](https://github.com/ani171/quantum/assets/97838595/1f715023-081e-4fba-8788-ff0786f371e6)
 
 ## Quantum Gates
-#### X gate
+### X gate
 * The X gate, often referred to as the NOT gate, is a fundamental quantum gate in quantum computing. 
 * It is analogous to the classical NOT gate, which flips the state of a classical bit.
 
@@ -81,5 +81,9 @@
 ![image](https://github.com/ani171/quantum/assets/97838595/eb64ecb1-708b-45e1-bcf5-b4fe14808f67)
 ![image](https://github.com/ani171/quantum/assets/97838595/01651a08-4398-49a4-82ff-db258c9ccacc)
 
+### Hadamard Gate
+* The Hadamard gate, often denoted as H, plays a crucial role in creating superpositions and is commonly used in various quantum algorithms.
+* Makes the qubit go into superposition
+![WhatsApp Image 2023-12-30 at 11 57 51 AM](https://github.com/ani171/quantum/assets/97838595/dab36b08-c398-4065-9326-3cd04e7901e1)
 
 
