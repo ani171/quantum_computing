@@ -44,8 +44,12 @@
 ![image](https://github.com/ani171/quantum_computing/assets/97838595/917bc167-86fa-49b7-9295-145674e4e16c)
 
 ## Quantum Teleportation
+
+![image](https://github.com/ani171/quantum_computing/assets/97838595/fddbf47b-0d51-4fc3-a773-b2a4d218b6c9)
+
 1. Initially, Alice and Bob share an entangled pair of qubits (q1 and q2 are bell pairs)
 2. Alice has a qubit q0, that she wants to teleport to Bob. The state of q0 is  ∣ψ⟩=α∣0⟩+β∣1⟩, where α and β are complex amplitudes
+![image](https://github.com/ani171/quantum_computing/assets/97838595/5e3af0a1-1343-49dd-a7b4-4d8e59fd007b)
 3. Alice applies a CNOT gate and Hadamard gate and now measures q0 and q1 bit, whose outcome would be two classical bits, lets call b1 and b2
 4. Alice communicates the measurement results of b1 and b2 to Bob using classical communication. This requires two classical bits
 5. Based on the received classical bits, Bob performs one of four possible operations on his qubit q2
