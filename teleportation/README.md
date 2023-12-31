@@ -53,4 +53,5 @@
 5. Alice communicates the measurement results of b1 and b2 to Bob using classical communication. This requires two classical bits
 6. Based on the received classical bits, Bob performs one of four possible operations on his qubit q2
     * The operations are I gate, X gate, Zgate or XZ gate
+    ![image](https://github.com/ani171/quantum_computing/assets/97838595/af1bb4a3-f35c-4247-a249-cb985bad54ea)
 7. At the end of this protocol, the state of q2 held by Bob is the same as the original state of q0 that Alice wanted to teleport
