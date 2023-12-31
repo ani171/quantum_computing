@@ -25,7 +25,7 @@
     2. Apply a Hadamard gate to the first qubit. This puts the first qubit into a superposition state.
     3. Apply a CNOT gate, where the first qubit is the control qubit, and the second qubit is the target qubit.
     4.  Resultant would be
-[image](https://github.com/ani171/quantum_computing/assets/97838595/3d1c2d23-0d2b-44f2-acf0-e8d1e0de710e)
+![image](https://github.com/ani171/quantum_computing/assets/97838595/3d1c2d23-0d2b-44f2-acf0-e8d1e0de710e)
 ![image](https://github.com/ani171/quantum_computing/assets/97838595/891385d6-7735-431d-be28-a022a654af2e)
 * In here Bell pair is created on both sides by applying the Hadamard gate and CNOT gate
 * Now if Allice wants to send |00> to Bob, she applies an I gate on q0 bit
