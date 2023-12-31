@@ -136,4 +136,4 @@
 [Qiskit](https://github.com/ani171/quantum/tree/bbe492cb5120d61ff42d8c85e87004ec69f81d72/qiskit)
 
 ## Teleportation
-[Teleportation](https://github.com/ani171/quantum_computing/tree/c36fa77f98cdab14f69a8827583d5c432a3418ea/teleportation)
+[Teleportation](https://github.com/ani171/quantum_computing/tree/db61f9bd79322480567f32a70a0fa304ebe1d25e/teleportation)
