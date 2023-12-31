@@ -50,8 +50,9 @@
 1. Initially, Alice and Bob share an entangled pair of qubits (q1 and q2 are bell pairs)
 2. Alice has a qubit q0, that she wants to teleport to Bob. The state of q0 is  ∣ψ⟩=α∣0⟩+β∣1⟩, where α and β are complex amplitudes
 3. Alice applies a CNOT gate and Hadamard gate and now measures q0 and q1 bit, whose outcome would be two classical bits, lets call b1 and b2
-5. Alice communicates the measurement results of b1 and b2 to Bob using classical communication. This requires two classical bits
-6. Based on the received classical bits, Bob performs one of four possible operations on his qubit q2
+4. Alice communicates the measurement results of b1 and b2 to Bob using classical communication. This requires two classical bits
+5. Based on the received classical bits, Bob performs one of four possible operations on his qubit q2
     * The operations are I gate, X gate, Zgate or XZ gate
 ![image](https://github.com/ani171/quantum_computing/assets/97838595/216db5ec-11c5-44b0-b567-9a44b694e840)
-7. At the end of this protocol, the state of q2 held by Bob is the same as the original state of q0 that Alice wanted to teleport
+6. At the end of this protocol, the state of q2 held by Bob is the same as the original state of q0 that Alice wanted to teleport
+![WhatsApp Image 2023-12-31 at 11 58 17 AM](https://github.com/ani171/quantum_computing/assets/97838595/e755b981-1e9e-4b32-a608-5c7f71b335cf)
