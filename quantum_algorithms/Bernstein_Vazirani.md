@@ -23,4 +23,4 @@
     * The quantum advantage comes from the ability of quantum bits to exist in multiple states simultaneously (superposition).
     * The algorithm explores all possible states in parallel, making it efficient for certain problems like finding a hidden binary string.
 8. Conclusion:
-* The Bernstein-Vazirani algorithm is a powerful demonstration of how quantum computing can outperform classical approaches for specific tasks, showcasing the unique advantages of quantum parallelism.
+      * The Bernstein-Vazirani algorithm is a powerful demonstration of how quantum computing can outperform classical approaches for specific tasks, showcasing the unique advantages of quantum parallelism.
