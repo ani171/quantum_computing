@@ -133,7 +133,7 @@
 ![image](https://github.com/ani171/quantum_computing/assets/97838595/935c0a4c-65b8-43eb-8242-68bba7469dff)
 
 ## Qiskit
-[Qiskit]()
+[Qiskit](qiskit)
 
 ## Teleportation
 [Teleportation]()
